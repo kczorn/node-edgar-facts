@@ -33,7 +33,9 @@ var facts = [
   'Nothing scares Edgar',
   'Edgar does not understand birds and has a number of questions for the species as a whole',
   'Edgar does not buy into the concept of overdressing. He wears his finest tuxedo to all formal occasions',
-  'Edgar does not like to be brushed, as he believes his coat looks best when slightly tousled'
+  'Edgar does not like to be brushed, as he believes his coat looks best when slightly tousled',
+  'Edgar does not understand why he is not currently sitting on your lap',
+  'Edgar would love to attend your barre fitness class'
 ]
 
 module.exports = function () {
