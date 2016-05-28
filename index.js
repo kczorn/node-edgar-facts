@@ -41,7 +41,8 @@ var facts = [
   'Edgar can easily mount a rock two times his height',
   'Edgar is an expert rock scrambler',
   'Due to his low center of balance, Edgar cannot be pushed over',
-  'Edgar prefers the climb to the descent'
+  'Edgar prefers the climb to the descent',
+  'Edgar has visited the grand canyon. He was not impressed.'
 ]
 
 module.exports = function () {
