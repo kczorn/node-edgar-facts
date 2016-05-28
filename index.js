@@ -36,7 +36,12 @@ var facts = [
   'Edgar does not understand why he is not currently sitting on your lap',
   'Edgar would love to attend your barre fitness class',
   'Edgar is offended',
-  'Edgar is a prince among men and animals alike'
+  'Edgar is a prince among men and animals alike',
+  'Edgar would love to spend hours staring out at scenic vistas',
+  'Edgar can easily mount a rock two times his height',
+  'Edgar is an expert rock scrambler',
+  'Due to his low center of balance, Edgar cannot be pushed over',
+  'Edgar prefers the climb to the descent'
 ]
 
 module.exports = function () {
